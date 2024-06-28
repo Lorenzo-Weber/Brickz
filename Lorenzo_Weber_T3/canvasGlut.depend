@@ -1,0 +1,340 @@
+# depslib dependency file v1.0
+1710341357 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+
+1632060799 d:\ufsm\disciplinas\computacao grafica\demos\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 d:\ufsm\disciplinas\computacao grafica\demos\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 d:\ufsm\disciplinas\computacao grafica\demos\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1710341387 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1589217858 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\vector2.h
+
+1589214882 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1705326017 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1589218349 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1713976584 source:c:\users\loren\desktop\cg\demos\1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1710341387 c:\users\loren\desktop\cg\demos\1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\loren\desktop\cg\demos\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\loren\desktop\cg\demos\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\loren\desktop\cg\demos\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1713470607 c:\users\loren\desktop\cg\demos\1_canvasglut\src\vector2.h
+
+1713978766 source:c:\users\loren\desktop\cg\demos\1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<vector>
+	"gl_canvas2d.h"
+	"Vector2.h"
+	"Bola.h"
+	"alvo.h"
+	"Relogio.h"
+	"Botao.h"
+	"Canhao.h"
+
+1713992006 c:\users\loren\desktop\cg\demos\1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+	"Alvo.h"
+	<vector>
+	<math.h>
+
+1193164156 c:\users\loren\desktop\cg\demos\1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 c:\users\loren\desktop\cg\demos\1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:c:\users\loren\desktop\cg\demos\1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1713991756 c:\users\loren\desktop\cg\demos\1_canvasglut\src\canhao.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	"Bola.h"
+	<iostream>
+	<vector>
+
+1713992006 c:\users\loren\desktop\cg\demos\1_canvasglut\src\alvo.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+
+1714545420 source:c:\users\loren\desktop\cg\demos\1_t3\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1710341387 c:\users\loren\desktop\cg\demos\1_t3\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1714546911 c:\users\loren\desktop\cg\demos\1_t3\src\vector2.h
+
+1716226039 source:c:\users\loren\desktop\cg\demos\1_t3\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<vector>
+	"gl_canvas2d.h"
+	"Vector2.h"
+	"Bola.h"
+	"alvo.h"
+	"Canhao.h"
+	"Game.h"
+	"Frames.h"
+
+1716210886 c:\users\loren\desktop\cg\demos\1_t3\src\bola.h
+	"gl_canvas2d.h"
+	"Alvo.h"
+	<vector>
+	<math.h>
+
+1716150881 c:\users\loren\desktop\cg\demos\1_t3\src\alvo.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+
+1193164156 c:\users\loren\desktop\cg\demos\1_t3\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 c:\users\loren\desktop\cg\demos\1_t3\src\botao.h
+	"gl_canvas2d.h"
+
+1716235381 c:\users\loren\desktop\cg\demos\1_t3\src\canhao.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	"Bola.h"
+	"BallManager.h"
+	<iostream>
+	<vector>
+	<ctime>
+
+1589218349 source:c:\users\loren\desktop\cg\demos\1_t3\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1714545420 source:c:\users\loren\desktop\programação\c\1_t3\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1710341387 c:\users\loren\desktop\programação\c\1_t3\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\loren\desktop\programação\c\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\loren\desktop\programação\c\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\loren\desktop\programação\c\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1714546911 c:\users\loren\desktop\programação\c\1_t3\src\vector2.h
+
+1716653586 source:c:\users\loren\desktop\programação\c\1_t3\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<vector>
+	"gl_canvas2d.h"
+	"Vector2.h"
+	"Bola.h"
+	"alvo.h"
+	"Canhao.h"
+	"Game.h"
+	"Frames.h"
+
+1716210886 c:\users\loren\desktop\programação\c\1_t3\src\bola.h
+	"gl_canvas2d.h"
+	"Alvo.h"
+	<vector>
+	<math.h>
+
+1716413126 c:\users\loren\desktop\programação\c\1_t3\src\alvo.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<random>
+	<math.h>
+
+1716235381 c:\users\loren\desktop\programação\c\1_t3\src\canhao.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	"Bola.h"
+	"BallManager.h"
+	<iostream>
+	<vector>
+	<ctime>
+
+1716092516 c:\users\loren\desktop\programação\c\1_t3\src\ballmanager.h
+	"gl_canvas2d.h"
+	"Bola.h"
+
+1716654085 c:\users\loren\desktop\programação\c\1_t3\src\game.h
+	"gl_canvas2d.h"
+	"Canhao.h"
+	"AlvoManager.h"
+	"PwrManager.h"
+	<math.h>
+
+1716413126 c:\users\loren\desktop\programação\c\1_t3\src\alvomanager.h
+	"gl_canvas2d.h"
+	"Alvo.h"
+	<vector>
+	<iostream>
+	<random>
+	<ctime>
+
+1715194534 c:\users\loren\desktop\programação\c\1_t3\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1715994132 c:\users\loren\desktop\programação\c\1_t3\src\screen.h
+	"gl_canvas2d.h"
+
+1716235401 c:\users\loren\desktop\programação\c\1_t3\src\powerup.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<functional>
+
+1716234911 c:\users\loren\desktop\programação\c\1_t3\src\pwrmanager.h
+	"gl_canvas2d.h"
+	"PowerUp.h"
+	"Vector2.h"
+	<vector>
+	<ctime>
+
+1716092516 c:\users\loren\desktop\cg\demos\1_t3\src\ballmanager.h
+	"gl_canvas2d.h"
+	"Bola.h"
+
+1716235476 c:\users\loren\desktop\cg\demos\1_t3\src\game.h
+	"gl_canvas2d.h"
+	"Canhao.h"
+	"AlvoManager.h"
+	"PwrManager.h"
+	<math.h>
+
+1716215263 c:\users\loren\desktop\cg\demos\1_t3\src\alvomanager.h
+	"gl_canvas2d.h"
+	"Alvo.h"
+	<vector>
+	<iostream>
+	<random>
+	<ctime>
+
+1716234911 c:\users\loren\desktop\cg\demos\1_t3\src\pwrmanager.h
+	"gl_canvas2d.h"
+	"PowerUp.h"
+	"Vector2.h"
+	<vector>
+	<ctime>
+
+1716235401 c:\users\loren\desktop\cg\demos\1_t3\src\powerup.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	<functional>
+
+1715194534 c:\users\loren\desktop\cg\demos\1_t3\src\frames.h
+	<stdio.h>
+	<time.h>
+
